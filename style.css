@@ -93,7 +93,7 @@
 
 #titneg {
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     margin-left: 5%;
     text-align: start;
 }
@@ -101,7 +101,7 @@
 .col {
     color: white;
     width: 25%;
-    font-size: 7px;
+    font-size: 15px;
     margin-top: 2%;
     margin-left: 5%;
     padding-bottom: 3%;
@@ -134,11 +134,11 @@
     }
 
     #titneg {
-        font-size: 10px;
+        font-size: 15px;
     }
     
     .col {
-        font-size: 5px;
+        font-size: 10px;
     }
 }
 
@@ -174,7 +174,7 @@
 }
 
 @media screen and (max-width:800px ){
-    #seccion1, #seccion2, #seccion3, #artneg2 {
+    #seccion1, #seccion2, #seccion3 {
         display: block;
     }
 
@@ -233,5 +233,5 @@
         .tit2 {
             font-size: 20px;
         }
-    
+
 }
